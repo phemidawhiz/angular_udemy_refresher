@@ -1,6 +1,6 @@
-# Udemy
+# Angular refresher course
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23 following the angular refresher section of native script course on udemmy. You can actually learn by checking the commits and PRs
 
 ## Development server
 
